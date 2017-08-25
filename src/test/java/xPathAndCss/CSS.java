@@ -25,6 +25,8 @@ a[title*='forgotten password']       							//contains
 span[data-name="gender_wrapper"]>:nth-child(1)>:nth-child(2)    //nth-child
 span[data-name="gender_wrapper"]>:first-child>:last-child       //first child and last child
 
+*************************************************************************************************
+
 
 
 
